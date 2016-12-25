@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "79292981640",
+    "project_id": "socialnetworks-f4153"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79292981640:android:82bf95cc95b502d6",
+        "android_client_info": {
+          "package_name": "com.renegades.labs.socialnetworks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79292981640-kc7su210evhti3i0luolbncagtssd8oo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.renegades.labs.socialnetworks",
+            "certificate_hash": "3AE2A1ABBA31C6B88D4A752D5209AD90360BAA2F"
+          }
+        },
+        {
+          "client_id": "79292981640-nn4qn5bino4mrd71jg7ckg9q9fpnkkgm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0bhh3OZupShhUUxWFz7lQdfz1j-WyAYs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
